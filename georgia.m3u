@@ -1,0 +1,38 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ImediTV.ge" group-title="Georgia",Imedi TV
+https://imedinews.ge/tv
+
+#EXTINF:-1 tvg-id="Rustavi2.ge" group-title="Georgia",Rustavi 2
+https://rustavi2.ge
+
+#EXTINF:-1 tvg-id="MtavariArkhi.ge" group-title="Georgia",Mtavari Arkhi
+https://mtavari.tv
+
+#EXTINF:-1 tvg-id="GDSTV.ge" group-title="Georgia",GDS TV
+https://gds.ge
+
+#EXTINF:-1 tvg-id="TVPirveli.ge" group-title="Georgia",TV Pirveli
+https://tvpirveli.ge
+
+#EXTINF:-1 tvg-id="Formula.ge" group-title="Georgia",Formula TV
+https://formula.ge
+
+#EXTINF:-1 tvg-id="PosTV.ge" group-title="Georgia",PosTV
+https://postv.ge
+
+#EXTINF:-1 tvg-id="AdjaraTV.ge" group-title="Georgia",Adjara TV
+https://adjara.tv
+
+#EXTINF:-1 tvg-id="Maestro.ge" group-title="Georgia",Maestro
+https://maestro.ge
+
+#EXTINF:-1 tvg-id="EuronewsGeorgia.ge" group-title="Georgia",Euronews Georgia
+https://euronewsgeorgia.com
+
+#EXTINF:-1 tvg-id="1TV.ge" group-title="Georgia",1TV
+https://1tv.ge
+
+#EXTINF:-1 tvg-id="2TV.ge" group-title="Georgia",2TV
+https://2tv.ge
+

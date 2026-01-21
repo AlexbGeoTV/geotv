@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Pirveli TV" group-title="Sakartvelo",Pirveli TV
+https://www.myvideo.ge/tv/pirvelitv
+
+#EXTINF:-1 tvg-id="" tvg-name="Rustavi 2" group-title="Sakartvelo",Rustavi 2
+https://rustavi2.ge/ka/dvr1
+
+#EXTINF:-1 tvg-id="" tvg-name="Imedi TV" group-title="Sakartvelo",Imedi TV
+https://www.imedi.ge/ge/live
+
+#EXTINF:-1 tvg-id="" tvg-name="1TV Georgia" group-title="Sakartvelo",1TV
+https://player.1tv.ge/1tv
+
+#EXTINF:-1 tvg-id="" tvg-name="1TV Play" group-title="Sakartvelo",1TV Play
+https://www.1tvplay.ge
